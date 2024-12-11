@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  overflow: hidden;
+}
+
+#canvas {
+  width: 100vw;
+  height: 100vh;
+}
+
+.buttons {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background-color: aqua;
+  padding: 10px;
+}
